@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-This features Shell basic commands
+A repo for Shell basics
